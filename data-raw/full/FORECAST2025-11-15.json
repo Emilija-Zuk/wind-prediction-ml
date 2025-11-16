@@ -1,0 +1,325 @@
+{
+    "location": {
+        "id": 18591,
+        "name": "Gold Coast Seaway",
+        "region": "Gold Coast",
+        "state": "QLD",
+        "postcode": "4217",
+        "timeZone": "Australia\/Brisbane",
+        "lat": -27.9349,
+        "lng": 153.4289,
+        "typeId": 12
+    },
+    "forecasts": {
+        "wind": {
+            "days": [
+                {
+                    "dateTime": "2025-11-15 00:00:00",
+                    "entries": [
+                        {
+                            "dateTime": "2025-11-15 00:00:00",
+                            "speed": 25.2,
+                            "direction": 318,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 01:00:00",
+                            "speed": 17.3,
+                            "direction": 291,
+                            "directionText": "WNW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 02:00:00",
+                            "speed": 13.7,
+                            "direction": 308,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 03:00:00",
+                            "speed": 11.2,
+                            "direction": 309,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 04:00:00",
+                            "speed": 9.4,
+                            "direction": 307,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 05:00:00",
+                            "speed": 10.1,
+                            "direction": 306,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 06:00:00",
+                            "speed": 11.5,
+                            "direction": 306,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 07:00:00",
+                            "speed": 11.5,
+                            "direction": 307,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 08:00:00",
+                            "speed": 10.8,
+                            "direction": 307,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 09:00:00",
+                            "speed": 11.2,
+                            "direction": 308,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 10:00:00",
+                            "speed": 13,
+                            "direction": 307,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 11:00:00",
+                            "speed": 15.5,
+                            "direction": 326,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 12:00:00",
+                            "speed": 18,
+                            "direction": 0,
+                            "directionText": "N"
+                        },
+                        {
+                            "dateTime": "2025-11-15 13:00:00",
+                            "speed": 21.2,
+                            "direction": 19,
+                            "directionText": "NNE"
+                        },
+                        {
+                            "dateTime": "2025-11-15 14:00:00",
+                            "speed": 24.5,
+                            "direction": 14,
+                            "directionText": "NNE"
+                        },
+                        {
+                            "dateTime": "2025-11-15 15:00:00",
+                            "speed": 26.3,
+                            "direction": 6,
+                            "directionText": "N"
+                        },
+                        {
+                            "dateTime": "2025-11-15 16:00:00",
+                            "speed": 28.4,
+                            "direction": 358,
+                            "directionText": "N"
+                        },
+                        {
+                            "dateTime": "2025-11-15 17:00:00",
+                            "speed": 28.4,
+                            "direction": 355,
+                            "directionText": "N"
+                        },
+                        {
+                            "dateTime": "2025-11-15 18:00:00",
+                            "speed": 23,
+                            "direction": 350,
+                            "directionText": "N"
+                        },
+                        {
+                            "dateTime": "2025-11-15 19:00:00",
+                            "speed": 22.3,
+                            "direction": 348,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 20:00:00",
+                            "speed": 20.9,
+                            "direction": 343,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 21:00:00",
+                            "speed": 19.8,
+                            "direction": 338,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 22:00:00",
+                            "speed": 19.8,
+                            "direction": 332,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-15 23:00:00",
+                            "speed": 21.2,
+                            "direction": 332,
+                            "directionText": "NNW"
+                        }
+                    ]
+                },
+                {
+                    "dateTime": "2025-11-16 00:00:00",
+                    "entries": [
+                        {
+                            "dateTime": "2025-11-16 00:00:00",
+                            "speed": 25.2,
+                            "direction": 332,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 01:00:00",
+                            "speed": 26.3,
+                            "direction": 332,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 02:00:00",
+                            "speed": 26.6,
+                            "direction": 331,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 03:00:00",
+                            "speed": 27.7,
+                            "direction": 329,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 04:00:00",
+                            "speed": 28.4,
+                            "direction": 328,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 05:00:00",
+                            "speed": 28.4,
+                            "direction": 328,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 06:00:00",
+                            "speed": 29.2,
+                            "direction": 328,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 07:00:00",
+                            "speed": 29.5,
+                            "direction": 328,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 08:00:00",
+                            "speed": 28.8,
+                            "direction": 328,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 09:00:00",
+                            "speed": 28.8,
+                            "direction": 329,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 10:00:00",
+                            "speed": 29.9,
+                            "direction": 329,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 11:00:00",
+                            "speed": 30.2,
+                            "direction": 330,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 12:00:00",
+                            "speed": 31.3,
+                            "direction": 332,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 13:00:00",
+                            "speed": 30.6,
+                            "direction": 334,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 14:00:00",
+                            "speed": 31.7,
+                            "direction": 335,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 15:00:00",
+                            "speed": 30.6,
+                            "direction": 336,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 16:00:00",
+                            "speed": 29.9,
+                            "direction": 336,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 17:00:00",
+                            "speed": 28.8,
+                            "direction": 335,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 18:00:00",
+                            "speed": 27.4,
+                            "direction": 335,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 19:00:00",
+                            "speed": 26.6,
+                            "direction": 334,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 20:00:00",
+                            "speed": 25.2,
+                            "direction": 330,
+                            "directionText": "NNW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 21:00:00",
+                            "speed": 23.4,
+                            "direction": 326,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 22:00:00",
+                            "speed": 22.3,
+                            "direction": 322,
+                            "directionText": "NW"
+                        },
+                        {
+                            "dateTime": "2025-11-16 23:00:00",
+                            "speed": 21.2,
+                            "direction": 318,
+                            "directionText": "NW"
+                        }
+                    ]
+                }
+            ],
+            "units": {
+                "speed": "km\/h"
+            },
+            "issueDateTime": "2025-11-14 23:35:05",
+            "carousel": {
+                "size": 12,
+                "start": 5
+            }
+        }
+    }
+}
