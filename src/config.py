@@ -13,6 +13,7 @@ STATIONS = [
 # Data paths
 RAW_DATA_DIR = "../data-raw/full"
 PROCESSED_DATA_DIR = "../data-processed/base"
+ENHANCED_DATA_DIR = "../data-processed/enhanced"
 
 # Observational data field keys
 OBSERVATIONAL_KEYS = [
@@ -37,3 +38,8 @@ FORECAST_FIELDS = [
 
 # Brisbane timezone offset (UTC+10)
 BRISBANE_UTC_OFFSET = 36000  # seconds
+
+# Gold Coast coordinates for sunrise/sunset calculations
+GOLD_COAST_LAT = -28.0167
+GOLD_COAST_LON = 153.4000
+TIMEZONE = "Australia/Brisbane"

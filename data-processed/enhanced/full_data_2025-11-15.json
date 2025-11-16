@@ -82,7 +82,9 @@
     "GC_forecast_wind": 25.2,
     "GC_forecast_direction": 318.0,
     "GC_forecast_direction_cos": 0.7431448254773942,
-    "GC_forecast_direction_sin": -0.6691306063588581
+    "GC_forecast_direction_sin": -0.6691306063588581,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763165400,
@@ -167,7 +169,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763166000,
@@ -252,7 +256,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763166600,
@@ -337,7 +343,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763167200,
@@ -422,7 +430,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763167740,
@@ -507,7 +517,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763167800,
@@ -592,7 +604,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 0,
+    "daylight": false
   },
   {
     "timestamp": 1763168400,
@@ -677,7 +691,9 @@
     "GC_forecast_wind": 17.3,
     "GC_forecast_direction": 291.0,
     "GC_forecast_direction_cos": 0.35836794954529955,
-    "GC_forecast_direction_sin": -0.9335804264972021
+    "GC_forecast_direction_sin": -0.9335804264972021,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763169000,
@@ -762,7 +778,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763169600,
@@ -847,7 +865,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763170200,
@@ -932,7 +952,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763170800,
@@ -1017,7 +1039,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763171340,
@@ -1102,7 +1126,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763171400,
@@ -1187,7 +1213,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 1,
+    "daylight": false
   },
   {
     "timestamp": 1763172000,
@@ -1272,7 +1300,9 @@
     "GC_forecast_wind": 13.7,
     "GC_forecast_direction": 308.0,
     "GC_forecast_direction_cos": 0.6156614753256585,
-    "GC_forecast_direction_sin": -0.7880107536067218
+    "GC_forecast_direction_sin": -0.7880107536067218,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763172600,
@@ -1357,7 +1387,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763173200,
@@ -1442,7 +1474,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763173800,
@@ -1527,7 +1561,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763174400,
@@ -1612,7 +1648,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763175000,
@@ -1697,7 +1735,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 2,
+    "daylight": false
   },
   {
     "timestamp": 1763175600,
@@ -1782,7 +1822,9 @@
     "GC_forecast_wind": 11.2,
     "GC_forecast_direction": 309.0,
     "GC_forecast_direction_cos": 0.6293203910498375,
-    "GC_forecast_direction_sin": -0.7771459614569708
+    "GC_forecast_direction_sin": -0.7771459614569708,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763176200,
@@ -1867,7 +1909,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763176800,
@@ -1952,7 +1996,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763177400,
@@ -2037,7 +2083,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763178000,
@@ -2122,7 +2170,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763178600,
@@ -2207,7 +2257,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 3,
+    "daylight": false
   },
   {
     "timestamp": 1763179200,
@@ -2292,7 +2344,9 @@
     "GC_forecast_wind": 9.4,
     "GC_forecast_direction": 307.0,
     "GC_forecast_direction_cos": 0.6018150231520479,
-    "GC_forecast_direction_sin": -0.798635510047293
+    "GC_forecast_direction_sin": -0.798635510047293,
+    "hour": 4,
+    "daylight": false
   },
   {
     "timestamp": 1763179800,
@@ -2377,7 +2431,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 4,
+    "daylight": false
   },
   {
     "timestamp": 1763180400,
@@ -2462,7 +2518,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 4,
+    "daylight": false
   },
   {
     "timestamp": 1763181000,
@@ -2547,7 +2605,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 4,
+    "daylight": false
   },
   {
     "timestamp": 1763181600,
@@ -2632,7 +2692,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 4,
+    "daylight": false
   },
   {
     "timestamp": 1763182200,
@@ -2717,7 +2779,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 4,
+    "daylight": true
   },
   {
     "timestamp": 1763182800,
@@ -2802,7 +2866,9 @@
     "GC_forecast_wind": 10.1,
     "GC_forecast_direction": 306.0,
     "GC_forecast_direction_cos": 0.5877852522924729,
-    "GC_forecast_direction_sin": -0.8090169943749476
+    "GC_forecast_direction_sin": -0.8090169943749476,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763183400,
@@ -2887,7 +2953,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763184000,
@@ -2972,7 +3040,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763184600,
@@ -3057,7 +3127,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763185200,
@@ -3142,7 +3214,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763185800,
@@ -3227,7 +3301,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 5,
+    "daylight": true
   },
   {
     "timestamp": 1763186400,
@@ -3312,7 +3388,9 @@
     "GC_forecast_wind": 11.5,
     "GC_forecast_direction": 306.0,
     "GC_forecast_direction_cos": 0.5877852522924729,
-    "GC_forecast_direction_sin": -0.8090169943749476
+    "GC_forecast_direction_sin": -0.8090169943749476,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763187000,
@@ -3397,7 +3475,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763187600,
@@ -3482,7 +3562,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763188200,
@@ -3567,7 +3649,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763188800,
@@ -3652,7 +3736,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763189400,
@@ -3737,7 +3823,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 6,
+    "daylight": true
   },
   {
     "timestamp": 1763190000,
@@ -3822,7 +3910,9 @@
     "GC_forecast_wind": 11.5,
     "GC_forecast_direction": 307.0,
     "GC_forecast_direction_cos": 0.6018150231520479,
-    "GC_forecast_direction_sin": -0.798635510047293
+    "GC_forecast_direction_sin": -0.798635510047293,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763190600,
@@ -3907,7 +3997,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763191200,
@@ -3992,7 +4084,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763191800,
@@ -4077,7 +4171,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763192400,
@@ -4162,7 +4258,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763193000,
@@ -4247,7 +4345,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 7,
+    "daylight": true
   },
   {
     "timestamp": 1763193600,
@@ -4332,7 +4432,9 @@
     "GC_forecast_wind": 10.8,
     "GC_forecast_direction": 307.0,
     "GC_forecast_direction_cos": 0.6018150231520479,
-    "GC_forecast_direction_sin": -0.798635510047293
+    "GC_forecast_direction_sin": -0.798635510047293,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763194200,
@@ -4417,7 +4519,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763194800,
@@ -4502,7 +4606,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763195400,
@@ -4587,7 +4693,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763196000,
@@ -4672,7 +4780,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763196600,
@@ -4757,7 +4867,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 8,
+    "daylight": true
   },
   {
     "timestamp": 1763197200,
@@ -4842,7 +4954,9 @@
     "GC_forecast_wind": 11.2,
     "GC_forecast_direction": 308.0,
     "GC_forecast_direction_cos": 0.6156614753256585,
-    "GC_forecast_direction_sin": -0.7880107536067218
+    "GC_forecast_direction_sin": -0.7880107536067218,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763197800,
@@ -4927,7 +5041,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763198400,
@@ -5012,7 +5128,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763199000,
@@ -5097,7 +5215,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763199600,
@@ -5182,7 +5302,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763200140,
@@ -5267,7 +5389,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763200200,
@@ -5352,7 +5476,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 9,
+    "daylight": true
   },
   {
     "timestamp": 1763200800,
@@ -5437,7 +5563,9 @@
     "GC_forecast_wind": 13.0,
     "GC_forecast_direction": 307.0,
     "GC_forecast_direction_cos": 0.6018150231520479,
-    "GC_forecast_direction_sin": -0.798635510047293
+    "GC_forecast_direction_sin": -0.798635510047293,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763201400,
@@ -5522,7 +5650,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763202000,
@@ -5607,7 +5737,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763202600,
@@ -5692,7 +5824,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763203200,
@@ -5777,7 +5911,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763203800,
@@ -5862,7 +5998,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 10,
+    "daylight": true
   },
   {
     "timestamp": 1763204400,
@@ -5947,7 +6085,9 @@
     "GC_forecast_wind": 15.5,
     "GC_forecast_direction": 326.0,
     "GC_forecast_direction_cos": 0.8290375725550414,
-    "GC_forecast_direction_sin": -0.5591929034707473
+    "GC_forecast_direction_sin": -0.5591929034707473,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763205000,
@@ -6032,7 +6172,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763205600,
@@ -6117,7 +6259,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763206200,
@@ -6202,7 +6346,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763206800,
@@ -6287,7 +6433,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763207400,
@@ -6372,7 +6520,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 11,
+    "daylight": true
   },
   {
     "timestamp": 1763208000,
@@ -6457,7 +6607,9 @@
     "GC_forecast_wind": 18.0,
     "GC_forecast_direction": 0.0,
     "GC_forecast_direction_cos": 1.0,
-    "GC_forecast_direction_sin": 0.0
+    "GC_forecast_direction_sin": 0.0,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763208600,
@@ -6542,7 +6694,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763209200,
@@ -6627,7 +6781,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763209800,
@@ -6712,7 +6868,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763210400,
@@ -6797,7 +6955,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763211000,
@@ -6882,7 +7042,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 12,
+    "daylight": true
   },
   {
     "timestamp": 1763211600,
@@ -6967,7 +7129,9 @@
     "GC_forecast_wind": 21.2,
     "GC_forecast_direction": 19.0,
     "GC_forecast_direction_cos": 0.9455185755993168,
-    "GC_forecast_direction_sin": 0.32556815445715664
+    "GC_forecast_direction_sin": 0.32556815445715664,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763212200,
@@ -7052,7 +7216,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763212800,
@@ -7137,7 +7303,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763213400,
@@ -7222,7 +7390,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763214000,
@@ -7307,7 +7477,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763214600,
@@ -7392,7 +7564,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 13,
+    "daylight": true
   },
   {
     "timestamp": 1763215200,
@@ -7477,7 +7651,9 @@
     "GC_forecast_wind": 24.5,
     "GC_forecast_direction": 14.0,
     "GC_forecast_direction_cos": 0.9702957262759965,
-    "GC_forecast_direction_sin": 0.24192189559966773
+    "GC_forecast_direction_sin": 0.24192189559966773,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763215800,
@@ -7562,7 +7738,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763216400,
@@ -7647,7 +7825,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763217000,
@@ -7732,7 +7912,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763217600,
@@ -7817,7 +7999,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763218200,
@@ -7902,7 +8086,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 14,
+    "daylight": true
   },
   {
     "timestamp": 1763218800,
@@ -7987,7 +8173,9 @@
     "GC_forecast_wind": 26.3,
     "GC_forecast_direction": 6.0,
     "GC_forecast_direction_cos": 0.9945218953682733,
-    "GC_forecast_direction_sin": 0.10452846326765346
+    "GC_forecast_direction_sin": 0.10452846326765346,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763219400,
@@ -8072,7 +8260,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763220000,
@@ -8157,7 +8347,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763220600,
@@ -8242,7 +8434,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763221200,
@@ -8327,7 +8521,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763221800,
@@ -8412,7 +8608,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 15,
+    "daylight": true
   },
   {
     "timestamp": 1763222400,
@@ -8497,7 +8695,9 @@
     "GC_forecast_wind": 28.4,
     "GC_forecast_direction": 358.0,
     "GC_forecast_direction_cos": 0.9993908270190958,
-    "GC_forecast_direction_sin": -0.034899496702500823
+    "GC_forecast_direction_sin": -0.034899496702500823,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763223000,
@@ -8582,7 +8782,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763223600,
@@ -8667,7 +8869,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763224200,
@@ -8752,7 +8956,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763224800,
@@ -8837,7 +9043,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763225400,
@@ -8922,7 +9130,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 16,
+    "daylight": true
   },
   {
     "timestamp": 1763226000,
@@ -9007,7 +9217,9 @@
     "GC_forecast_wind": 28.4,
     "GC_forecast_direction": 355.0,
     "GC_forecast_direction_cos": 0.9961946980917455,
-    "GC_forecast_direction_sin": -0.08715574274765832
+    "GC_forecast_direction_sin": -0.08715574274765832,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763226600,
@@ -9092,7 +9304,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763227200,
@@ -9177,7 +9391,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763227800,
@@ -9262,7 +9478,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763228400,
@@ -9347,7 +9565,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763229000,
@@ -9432,7 +9652,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 17,
+    "daylight": true
   },
   {
     "timestamp": 1763229600,
@@ -9517,7 +9739,9 @@
     "GC_forecast_wind": 23.0,
     "GC_forecast_direction": 350.0,
     "GC_forecast_direction_cos": 0.9848077530122079,
-    "GC_forecast_direction_sin": -0.17364817766693127
+    "GC_forecast_direction_sin": -0.17364817766693127,
+    "hour": 18,
+    "daylight": true
   },
   {
     "timestamp": 1763230200,
@@ -9602,7 +9826,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 18,
+    "daylight": true
   },
   {
     "timestamp": 1763230800,
@@ -9687,7 +9913,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 18,
+    "daylight": false
   },
   {
     "timestamp": 1763231400,
@@ -9772,7 +10000,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 18,
+    "daylight": false
   },
   {
     "timestamp": 1763232000,
@@ -9857,7 +10087,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 18,
+    "daylight": false
   },
   {
     "timestamp": 1763232600,
@@ -9942,7 +10174,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 18,
+    "daylight": false
   },
   {
     "timestamp": 1763233200,
@@ -10027,7 +10261,9 @@
     "GC_forecast_wind": 22.3,
     "GC_forecast_direction": 348.0,
     "GC_forecast_direction_cos": 0.9781476007338056,
-    "GC_forecast_direction_sin": -0.20791169081775987
+    "GC_forecast_direction_sin": -0.20791169081775987,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763233800,
@@ -10112,7 +10348,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763234400,
@@ -10197,7 +10435,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763235000,
@@ -10282,7 +10522,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763235600,
@@ -10367,7 +10609,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763236200,
@@ -10452,7 +10696,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 19,
+    "daylight": false
   },
   {
     "timestamp": 1763236800,
@@ -10537,7 +10783,9 @@
     "GC_forecast_wind": 20.9,
     "GC_forecast_direction": 343.0,
     "GC_forecast_direction_cos": 0.9563047559630357,
-    "GC_forecast_direction_sin": -0.29237170472273627
+    "GC_forecast_direction_sin": -0.29237170472273627,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763237400,
@@ -10622,7 +10870,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763238000,
@@ -10707,7 +10957,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763238600,
@@ -10792,7 +11044,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763239200,
@@ -10877,7 +11131,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763239800,
@@ -10962,7 +11218,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 20,
+    "daylight": false
   },
   {
     "timestamp": 1763240400,
@@ -11047,7 +11305,9 @@
     "GC_forecast_wind": 19.8,
     "GC_forecast_direction": 338.0,
     "GC_forecast_direction_cos": 0.9271838545667873,
-    "GC_forecast_direction_sin": -0.37460659341591235
+    "GC_forecast_direction_sin": -0.37460659341591235,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763240940,
@@ -11132,7 +11392,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763241000,
@@ -11217,7 +11479,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763241600,
@@ -11302,7 +11566,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763242200,
@@ -11387,7 +11653,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763242800,
@@ -11472,7 +11740,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763243400,
@@ -11557,7 +11827,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 21,
+    "daylight": false
   },
   {
     "timestamp": 1763244000,
@@ -11642,7 +11914,9 @@
     "GC_forecast_wind": 19.8,
     "GC_forecast_direction": 332.0,
     "GC_forecast_direction_cos": 0.882947592858927,
-    "GC_forecast_direction_sin": -0.4694715627858908
+    "GC_forecast_direction_sin": -0.4694715627858908,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763244600,
@@ -11727,7 +12001,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763245200,
@@ -11812,7 +12088,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763245800,
@@ -11897,7 +12175,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763246400,
@@ -11982,7 +12262,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763247000,
@@ -12067,7 +12349,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 22,
+    "daylight": false
   },
   {
     "timestamp": 1763247600,
@@ -12152,7 +12436,9 @@
     "GC_forecast_wind": 21.2,
     "GC_forecast_direction": 332.0,
     "GC_forecast_direction_cos": 0.882947592858927,
-    "GC_forecast_direction_sin": -0.4694715627858908
+    "GC_forecast_direction_sin": -0.4694715627858908,
+    "hour": 23,
+    "daylight": false
   },
   {
     "timestamp": 1763248200,
@@ -12237,7 +12523,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 23,
+    "daylight": false
   },
   {
     "timestamp": 1763248800,
@@ -12322,7 +12610,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 23,
+    "daylight": false
   },
   {
     "timestamp": 1763249400,
@@ -12407,7 +12697,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 23,
+    "daylight": false
   },
   {
     "timestamp": 1763250000,
@@ -12492,7 +12784,9 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 23,
+    "daylight": false
   },
   {
     "timestamp": 1763250600,
@@ -12577,6 +12871,8 @@
     "GC_forecast_wind": NaN,
     "GC_forecast_direction": NaN,
     "GC_forecast_direction_cos": NaN,
-    "GC_forecast_direction_sin": NaN
+    "GC_forecast_direction_sin": NaN,
+    "hour": 23,
+    "daylight": false
   }
 ]
